@@ -1,0 +1,14 @@
+{
+    "symbol_set": "radmmm_phonemizer_marker_segregated",
+    "cleaner_name": ["radtts_cleaners"],
+    "heteronyms_path": null,
+    "phoneme_dict_path": "",
+    "p_phoneme": 1.0,
+    "handle_phoneme": "word",
+    "handle_phoneme_ambiguous": "ignore",
+    "dict_split_token": "\t",
+    "encoding": "utf-8",
+    "prepend_space_to_text": false,
+    "append_space_to_text": false,
+    "add_bos_eos_to_text": false
+}

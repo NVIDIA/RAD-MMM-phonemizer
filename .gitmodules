@@ -1,0 +1,6 @@
+[submodule "phonemizer"]
+	path = phonemizer
+	url = https://github.com/bootphon/phonemizer.git
+[submodule "wikidict-wordlist"]
+	path = wikidict-wordlist
+	url = https://github.com/open-dict-data/wikidict-wordlist.git
